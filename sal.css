@@ -1,0 +1,47 @@
+body{background: linear-gradient(#0073ff 5% , rgb(239, 239, 6)80%,white);
+     margin: 30px;}
+
+.p2{display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    position: relative;
+    padding: 76px 0 0 0;}
+    
+.p1{display: inline-block;
+    width: 65%;}
+
+.img{width: 60%;}
+
+h1{font-size: 40px;}
+
+h2{font-size: 35px;}
+
+h3{font-size: 30px;}
+
+h4{font-size: 25px;}
+
+h5{font-size: 20px;}
+
+.central {
+    text-align: center;
+    margin: 30px;
+    padding: 30px;}
+
+p{font-size: 21px;}
+footer{position: relative;
+margin-left: 25%;}
+
+.dd{margin: auto;
+       width: 940px;
+       border: black solid 3px;
+       padding: 30px ;
+       background:rgb(65, 62, 62);
+       position: relative;
+}
+.ppp{ margin: 0 0 70px 0;}
+.footer{
+    width: 10%;
+}
+
+
+
