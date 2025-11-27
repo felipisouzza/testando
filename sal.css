@@ -6,7 +6,11 @@ body{background: linear-gradient(#0073ff 5% , rgb(239, 239, 6)80%,white);
     vertical-align: top;
     position: relative;
     padding: 76px 0 0 0;}
-    
+
+#ei{font-size: 21px;}
+#eii{font-size: 21px;}
+#eiii{font-size: 21px;}
+
 .p1{display: inline-block;
     width: 65%;}
 
@@ -28,6 +32,7 @@ h5{font-size: 20px;}
     padding: 30px;}
 
 p{font-size: 21px;}
+
 footer{position: relative;
 margin-left: 25%;}
 
@@ -42,7 +47,6 @@ margin-left: 25%;}
 .footer{
     width: 10%;
 }
-
 
 @media screen and (max-width:480px) {
 body{ display: block;
@@ -69,4 +73,3 @@ border: solid black 0px;}
 footer{position: static;
          margin: auto;   }
 }
-
